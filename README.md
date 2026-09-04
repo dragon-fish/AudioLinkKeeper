@@ -2,7 +2,11 @@
 
 Stops your Bluetooth speaker from silencing the **entire** Windows system when you pause a video.
 
-[中文说明](#中文说明)
+[中文说明](#中文说明) · [Full write-up (Chinese)](https://blog.epb.wiki/2026/09/05/fuck-windows-bluetooth-audio/)
+
+> Six years of "my Bluetooth speaker acts up sometimes", one night of digging, 18 disproved
+> hypotheses. The [blog post](https://blog.epb.wiki/2026/09/05/fuck-windows-bluetooth-audio/)
+> tells the whole story (in Chinese, and considerably angrier than this README).
 
 ---
 
@@ -116,7 +120,7 @@ about 1 MB.
 
 ## License
 
-MIT
+[WTFPL](LICENSE) — do what the fuck you want to.
 
 ---
 
@@ -155,3 +159,13 @@ MIT
 ## 免责
 
 在 Harman Kardon SoundSticks 4 + Intel 蓝牙 + Windows 11 上验证。其他音箱是否是同样的行为未知。AVRCP 转发那一步是**推断**，没有抓包证实——直接测到的事实是：注册 SMTC 的播放能恢复、不注册的一律不行，且音量联动与音频同时失效。
+
+## 完整排查过程
+
+被这个 bug 折磨了 6 年，某天晚上十点到凌晨四点一口气查完，中途提了 18 个假说全部证伪。完整的踩坑记录（以及对微软相当不客气的评价）写在这里：
+
+**[我暂停了一下视频，然后整台电脑失声了](https://blog.epb.wiki/2026/09/05/fuck-windows-bluetooth-audio/)**
+
+## 许可
+
+[WTFPL](LICENSE) —— 你他妈想干啥就干啥。
