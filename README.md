@@ -2,10 +2,10 @@
 
 Stops your Bluetooth speaker from silencing the **entire** Windows system when you pause a video.
 
-[中文说明](#中文说明) · [Full write-up (Chinese)](https://blog.epb.wiki/2026/09/05/fuck-windows-bluetooth-audio/)
+[中文说明](#中文说明) · [Full write-up (Chinese)](https://blog.epb.wiki/2026/09/04/fuck-windows-bluetooth-audio/)
 
 > Six years of "my Bluetooth speaker acts up sometimes", one night of digging, 18 disproved
-> hypotheses. The [blog post](https://blog.epb.wiki/2026/09/05/fuck-windows-bluetooth-audio/)
+> hypotheses. The [blog post](https://blog.epb.wiki/2026/09/04/fuck-windows-bluetooth-audio/)
 > tells the whole story (in Chinese, and considerably angrier than this README).
 
 ---
@@ -164,7 +164,7 @@ about 1 MB.
 
 被这个 bug 折磨了 6 年，某天晚上十点到凌晨四点一口气查完，中途提了 18 个假说全部证伪。完整的踩坑记录（以及对微软相当不客气的评价）写在这里：
 
-**[我暂停了一下视频，然后整台电脑失声了](https://blog.epb.wiki/2026/09/05/fuck-windows-bluetooth-audio/)**
+**[微软，不想好好做蓝牙音频可以不做](https://blog.epb.wiki/2026/09/04/fuck-windows-bluetooth-audio/)**
 
 ## 许可
 
