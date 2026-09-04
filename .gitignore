@@ -1,0 +1,9 @@
+# Build output
+bin/
+obj/
+*.user
+
+# Runtime artifacts (generated next to the exe)
+silent.wav
+keeper.log
+keeper.log.*

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
+    <!-- Windows.Media.* lives in the Windows SDK projections; the windows10.x
+         target framework moniker is what brings them in. -->
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>AudioLinkKeeper</AssemblyName>
+    <RootNamespace>AudioLinkKeeper</RootNamespace>
+    <Version>1.0.0</Version>
+    <Description>Keeps a silent SMTC session alive so Bluetooth speakers never lose their audio channel.</Description>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+</Project>
